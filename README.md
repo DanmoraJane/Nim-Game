@@ -6,3 +6,4 @@ If player has one stick left when their turn begins, they lose.
 
 This is a 2-player zero sum game with full information.
 
+Author: Laura Asmakovska, 6th group, DITF RTU student
